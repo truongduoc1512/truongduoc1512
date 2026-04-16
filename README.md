@@ -6,10 +6,12 @@
 * 🌱 I'm currently learning **Advanced Database Optimization (B+ Trees, Serializability), Enterprise Networking (OSPF, VLAN, ACLs), and professional English.**
 * 👯 I'm looking to collaborate on **Cloud infrastructure setups (AWS/GCP), CI/CD pipelines, or taking on the technical lead/SysAdmin role for full-stack web projects.**
 * 💬 Ask me about **Docker, Jenkins, AWS (EC2, RDS), GCP Load Balancing, Linux server administration, and Cisco packet routing.**
-* 📫 How to reach me: **[Điền Email của bạn vào đây, vd: truongduoc1512@gmail.com]**
+* 📫 How to reach me: hoaiduoc15@gmail.com
 * ⚡ Fun fact: **I manage my own physical homelab setup in my room (proudly routing traffic and troubleshooting even without Gigabit Ethernet ports!).**
 * 📁 All of my projects are available at [My Portfolio](https://truongduoc-ops.vercel.app/)
-* * 📄 Know about my experiences [My CV]([#](https://truongduoc-ops.vercel.app/TruongHoaiDuoc_CV.pdf)) ---
+* 📄 Know about my experiences [My CV](https://truongduoc-ops.vercel.app/TruongHoaiDuoc_CV.pdf)
+
+ ---
 
 ### Connect with me:
 <p align="left">
