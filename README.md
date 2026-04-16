@@ -8,12 +8,15 @@
 * 💬 Ask me about **Docker, Jenkins, AWS (EC2, RDS), GCP Load Balancing, Linux server administration, and Cisco packet routing.**
 * 📫 How to reach me: **[Điền Email của bạn vào đây, vd: truongduoc1512@gmail.com]**
 * ⚡ Fun fact: **I manage my own physical homelab setup in my room (proudly routing traffic and troubleshooting even without Gigabit Ethernet ports!).**
-* 📁 All of my projects are available at [My Portfolio](#) * 📄 Know about my experiences [My CV](#) ---
+* 📁 All of my projects are available at [My Portfolio](https://truongduoc-ops.vercel.app/)
+* * 📄 Know about my experiences [My CV]([#](https://truongduoc-ops.vercel.app/TruongHoaiDuoc_CV.pdf)) ---
 
 ### Connect with me:
-<a href="https://github.com/truongduoc1512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/duoc-truong-984806339/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/truongduoc1512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://github.com/truongduoc1512" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/duoc-truong-984806339/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/truongduoc1512" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
 
 <br>
 
