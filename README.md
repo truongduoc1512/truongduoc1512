@@ -37,9 +37,7 @@
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongduoc1512&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongduoc1512&theme=dark" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=truongduoc1512&show_icons=true&theme=dark&v=1" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=truongduoc1512&theme=dark&v=1" alt="GitHub Streak" height="170" />
 </div>
