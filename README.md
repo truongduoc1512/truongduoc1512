@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    I build robust backend architectures, automated CI/CD pipelines, containerized microservices, and highly available cloud environments[cite: 2, 3].
+    I build robust backend architectures, automated CI/CD pipelines, containerized microservices, and highly available cloud environments.
   </em>
 </p>
 
@@ -40,11 +40,11 @@
 
 <div align="center">
 
-🔭 Currently working on **Microservices Face Recognition System & Cloud Infrastructure**[cite: 2, 3]  
-🌱 Learning deeply about **Infrastructure as Code (Terraform), System Monitoring, and LLMs**[cite: 2, 3]  
-💻 Focused on **Backend Development, CI/CD Automation, and System Architecture**[cite: 2, 3]  
-⚡ Interested in **AWS/GCP Cloud Technologies, Network Lab Configuration, and Linux Administration**[cite: 2, 3]  
-🎯 Goal: Build highly available, scalable systems and achieve the **AWS Certified Solutions Architect - Associate**[cite: 2, 3]
+🔭 Currently working on **Microservices Face Recognition System & Cloud Infrastructure**  
+🌱 Learning deeply about **Infrastructure as Code (Terraform), System Monitoring, and LLMs**  
+💻 Focused on **Backend Development, CI/CD Automation, and System Architecture** 
+⚡ Interested in **AWS/GCP Cloud Technologies, Network Lab Configuration, and Linux Administration**  
+🎯 Goal: Build highly available, scalable systems and achieve the **AWS Certified Solutions Architect - Associate**
 
 </div>
 
@@ -61,19 +61,19 @@
     <td align="center" width="300">
       <h3>⚙️ Backend Development</h3>
       <p>
-        Building scalable monolithic and microservices backend architectures using Java Spring Boot, Node.js, and Python FastAPI[cite: 2, 3].
+        Building scalable monolithic and microservices backend architectures using Java Spring Boot, Node.js, and Python FastAPI.
       </p>
     </td>
     <td align="center" width="300">
       <h3>☁️ Cloud & DevOps</h3>
       <p>
-        Designing deployment workflows, establishing distributed CI/CD pipelines (Jenkins, GitHub Actions), and managing AWS environments[cite: 2, 3].
+        Designing deployment workflows, establishing distributed CI/CD pipelines (Jenkins, GitHub Actions), and managing AWS environments.
       </p>
     </td>
     <td align="center" width="300">
       <h3>🖧 System & Networking</h3>
       <p>
-        Configuring OSPF Multi-area routing, DHCP Relay, and setting up PostgreSQL Master-Slave Replication for High Availability[cite: 3].
+        Configuring OSPF Multi-area routing, DHCP Relay, and setting up PostgreSQL Master-Slave Replication for High Availability.
       </p>
     </td>
   </tr>
@@ -121,11 +121,11 @@
 
 | Area | Focus |
 |---|---|
-| **Backend** | Java Spring Boot, Python FastAPI, REST APIs, System Architecture[cite: 2, 3] |
-| **DevOps** | Docker, Jenkins (Master-Worker), GitHub Actions, CI/CD[cite: 2, 3] |
-| **Database** | PostgreSQL (pgvector, Master-Slave Replication), MySQL[cite: 2, 3] |
-| **Cloud** | AWS (EC2, S3, VPC), GCP, Infrastructure as Code[cite: 2, 3] |
-| **Networking** | OSPF (Multi-area), DHCP Relay, Static Routing, TCP/IP[cite: 3] |
+| **Backend** | Java Spring Boot, Python FastAPI, REST APIs, System Architecture |
+| **DevOps** | Docker, Jenkins (Master-Worker), GitHub Actions, CI/CD |
+| **Database** | PostgreSQL (pgvector, Master-Slave Replication), MySQL |
+| **Cloud** | AWS (EC2, S3, VPC), GCP, Infrastructure as Code |
+| **Networking** | OSPF (Multi-area), DHCP Relay, Static Routing, TCP/IP |
 
 </div>
 
@@ -141,10 +141,10 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Microservices Face Recognition** | Distributed microservices ecosystem with high-performance pgvector storage[cite: 2, 3] | FastAPI, Next.js, Docker, PostgreSQL[cite: 2, 3] |
-| **"Shoe Shop" E-commerce** | Full-stack application with automated CI/CD pipeline and AWS EC2 deployment[cite: 2, 3] | Spring Boot, MySQL, GitHub Actions, AWS[cite: 2, 3] |
-| **Enterprise Network & DB** | Centralized network design (OSPF) & HA PostgreSQL Master-Slave cluster[cite: 3] | OSPF, Jenkins, Linux, PostgreSQL[cite: 3] |
-| **LLM Fine-Tuning Research** | MLOps architecture research for Vietnamese text classification models[cite: 2] | Python, AI/MLOps, Data Pipelines[cite: 2] |
+| **Microservices Face Recognition** | Distributed microservices ecosystem with high-performance pgvector storage | FastAPI, Next.js, Docker, PostgreSQL |
+| **"Shoe Shop" E-commerce** | Full-stack application with automated CI/CD pipeline and AWS EC2 deployment | Spring Boot, MySQL, GitHub Actions, AWS |
+| **Enterprise Network & DB** | Centralized network design (OSPF) & HA PostgreSQL Master-Slave cluster | OSPF, Jenkins, Linux, PostgreSQL |
+| **LLM Fine-Tuning Research** | MLOps architecture research for Vietnamese text classification models | Python, AI/MLOps, Data Pipelines |
 
 </div>
 
